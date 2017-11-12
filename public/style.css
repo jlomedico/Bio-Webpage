@@ -1,0 +1,58 @@
+* {
+    margin-left: 40px;
+    margin-right: 20px;
+    background-color:blanchedalmond;
+        
+}
+
+.Top{
+    border: 5px;
+    border-radius: 40px;
+    border-style: double;
+    border-color: darkslateblue;
+/*    padding-bottom: 75px;*/
+    padding-top: 10px;
+
+
+}
+
+.biopic img {
+    float: left;
+    margin-left: -15px;
+    height: 250px;
+    width: auto;
+    border-radius: 50%;
+    border: 3px solid darkblue;
+
+}
+
+h1 {
+    color: blue;
+    font-style: italic;
+    font-size: 45px;
+    font-family:"Times New Roman", Times, serif;
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color: black;
+
+}
+
+h2 {
+    text-decoration: underline;
+}
+
+h3 {
+    text-decoration: underline;
+}
+.bio {
+    text-align: justify;
+}
+
+.media img{
+    margin-left: -20px;
+    vertical-align: middle;
+    height: 30px;
+    width: auto;
+    position:relative;
+}
+
