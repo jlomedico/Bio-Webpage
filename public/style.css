@@ -2,7 +2,7 @@
     margin-left: 40px;
     margin-right: 20px;
     background-color:blanchedalmond;
-        
+
 }
 
 .Top{
@@ -12,8 +12,9 @@
     border-color: darkslateblue;
 /*    padding-bottom: 75px;*/
     padding-top: 10px;
-
-
+    content: "";
+    clear: both;
+    display: table;
 }
 
 .biopic img {
@@ -55,4 +56,20 @@ h3 {
     width: auto;
     position:relative;
 }
+a:link {
+    color:blue;
+}
 
+
+a:visited {
+    color: blueviolet;
+}
+
+
+a:hover {
+    color: darkslateblue;
+}
+
+a:active {
+    color: blueviolet;
+}
